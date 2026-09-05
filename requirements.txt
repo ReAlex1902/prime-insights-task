@@ -1,0 +1,14 @@
+# Core data-science stack used in primeinsights_case_study_en.ipynb
+numpy==2.5.2
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.0
+lightgbm==4.7.0
+matplotlib==3.11.1
+tqdm==4.70.0
+
+# To open and run the notebook itself (Jupyter Notebook/Lab + kernel).
+# Not needed if you already run notebooks through VS Code / JupyterLab
+# with an existing ipykernel install.
+jupyter==1.1.1
+ipykernel==7.3.0

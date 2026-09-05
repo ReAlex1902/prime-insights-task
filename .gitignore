@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# macOS zip artifacts (in case a .zip export is re-added to the repo)
+__MACOSX/
+
+# Editors
+.vscode/
+.idea/
