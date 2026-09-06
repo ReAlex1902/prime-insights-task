@@ -21,8 +21,8 @@ Funnel modeled: `impression → click → install → playtime / IAP events`.
 Requires **Python 3.11+** (tested on 3.12.3).
 
 ```bash
-git clone <this-repo-url>
-cd <repo-folder>
+git clone https://github.com/ReAlex1902/prime-insights-task.git
+cd prime-insights-task
 
 python3 -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
